@@ -1,0 +1,10 @@
+==============================
+MINI SIEM REPORT
+==============================
+
+Total de linhas analisadas: 4
+Tentativas de login com falha: 2
+
+IOCs detectados:
+- 185.220.101.1
+- 45.33.32.156
