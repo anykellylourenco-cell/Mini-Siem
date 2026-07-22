@@ -18,19 +18,33 @@ O programa realiza a leitura de arquivos de log, identifica tentativas de login 
 ## Estrutura do Projeto
 
 mini-siem/
+
 │
+
 ├── main.py
+
 ├── logs.txt
+
 ├── malicious_ips.txt
+
 ├── reports/
+
 │   └── report.txt
+
 ├── modules/
+
 │   ├── __init__.py
+
 │   ├── failed_login.py
+
 │   ├── ioc_checker.py
+
 │   ├── log_parser.py
+
 │   └── report_generator.py
+
 └── README.md
+
 
 ## Tecnologias Utilizadas
 
